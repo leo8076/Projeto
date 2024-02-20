@@ -1,0 +1,97 @@
+body {background-color: white;
+}
+
+.divcadastro {
+margin: auto;
+display: block;
+
+}
+input {
+  padding: 5px;
+  height: 30px;
+  margin: auto;
+  border-style: ridge blue 100px;
+  background-color: rgb(177, 175, 176);
+  text-align: left;
+  border-radius: 32px;
+  display: inline;
+}
+form {
+  border: 5px solid rgb(13, 126, 42);
+  padding: 100px;
+  margin: 150px;
+  height: 320px;
+  background-color: rgb(196, 218, 218);
+}
+
+span {
+  display: inline-block;
+  border: 5px coral solid;
+  background-color: rgb(43, 183, 207);
+  border-radius: 10px;
+  width : 600px;
+  margin-left: 150px;
+  
+}
+
+.div_form {
+  align-self: center;
+  border: 3px solid black;
+  text-align: center;
+  margin-top: 30px;
+  
+}
+
+.buttCadastrar {
+ background-color: rgb(55, 126, 219);
+ border: 3px hsl(0, 0%, 0%) solid dashed;
+ border-radius: 32px;
+ padding: 10px;
+ width: 100px;
+ margin-left: 80%;
+ color-interpolation-filters: auto;
+ align-self: center;
+ align-items: left; 
+}
+
+html {
+  border: 5px solid goldenrod;
+}
+head { border: 10px  solid blueviolet;
+
+}
+
+.tituloform {
+  text-align: center;
+  border: 5px solid red;
+  display: inline;
+  margin-left: 250px;
+  font-weight: bold;
+  font-style: initial;
+  font-size: xx-large;
+  
+}
+
+label {
+  text-align: center;
+  border-color: blueviolet;
+  padding: auto;
+
+}
+
+.titulo {
+  border: 5px solid blue;
+  padding: 10px;
+  text-align: center;
+  margin-top: auto;
+}
+
+.logotipo {
+  border: 1px solid red;
+  background-image: url(/img/lgoo-tipo.png);
+  min-height: 100px;
+  min-width: 100px;
+  min-block-size: 100px;
+
+
+}

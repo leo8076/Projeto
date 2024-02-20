@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    border: 2px solid red;
+    display: inline;
+}
+
+body {
+    border: 3px solid greenyellow;
+    display: inline;
+    background: aqua top center/cover;
+}
+
+form { 
+    border: 3px solid black;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 30%;
+    margin-bottom: auto;
+
+}
